@@ -1,0 +1,30 @@
+{
+  "name": "chinchin",
+  "version": "1.0.0",
+  "description": "test apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrestopa/chinchin.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "forkjoin",
+    "insurance"
+  ],
+  "author": "chinchin & andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrestopa/chinchin/issues"
+  },
+  "homepage": "https://github.com/andrestopa/chinchin#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "nodemon": "^2.0.4"
+  }
+}
